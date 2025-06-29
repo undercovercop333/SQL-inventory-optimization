@@ -16,16 +16,6 @@ This project focuses on optimizing retail inventory management using SQL and Exc
 - CSV data processing
 - EER diagram modeling
 
-## Folder Structure
-
-├── EER diagram final.png # Database schema design
-├── dashboard.png # Sample Excel dashboard visual
-├── sql_script_submission # final sql script
-├── retail_clean_YMD.csv # Cleaned dataset
-├── Retail Inventory Optimization Project.pdf # Full project report
-└── README.md # Project documentation
-
-
 ## Key Insights
 
 - Electronics and Groceries were among the top-performing categories.
